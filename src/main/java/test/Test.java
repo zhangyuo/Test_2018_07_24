@@ -1,7 +1,7 @@
 package test;
 
 /**
- * @author zhangyuo@zbj.com
+ * @author zhangycqupt@163.com
  * @date 2018/7/24 15:31
  */
 public class Test {
